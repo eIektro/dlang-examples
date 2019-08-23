@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/merhaba
+merhaba.so
+merhaba.dylib
+merhaba.dll
+merhaba.a
+merhaba.lib
+merhaba-test-*
+*.exe
+*.o
+*.obj
+*.lst
