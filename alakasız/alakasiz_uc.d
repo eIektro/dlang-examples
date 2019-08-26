@@ -1,4 +1,4 @@
-module alakasiz_uc;import std.stdio;
+module alakasız.alakasiz_uc;import std.stdio;
 
 void main(){
     writeln("tür                  : ",stdin.stringof);

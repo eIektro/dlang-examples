@@ -1,4 +1,4 @@
-module alti_a;import std.stdio;
+module 1-9.alti_a;import std.stdio;
 
 void main(){
     int öğrenci_sayısı;
