@@ -7,7 +7,6 @@ ve artanını versin.
 
 void main(){
     int birinci_sayı, ikinci_sayı;
-
     writeln("Birinci sayıyı veriniz lütfen:");
     readf(" %s", &birinci_sayı);
     writeln("İkinci sayıyı veriniz lütfen:");
@@ -18,6 +17,4 @@ void main(){
         writeln(birinci_sayı, " = ", ikinci_sayı, " * ", bölüm);
     else
     writeln(birinci_sayı, " = ", ikinci_sayı, " * ", bölüm, " + ", kalan );
-    
-
 }
